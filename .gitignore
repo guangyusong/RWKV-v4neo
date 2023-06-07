@@ -141,3 +141,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exclude requirements.txt from being ignored
+!requirements.txt
